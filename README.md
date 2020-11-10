@@ -142,6 +142,7 @@ Pulp can handle a variety of image formats. Here's [one thread](https://github.c
 * Finnish Public Broadcaster Yle — ["Pakasteet pieneen pussiin?" - kielen alkeita sarjakuvan avulla](http://yle.fi/aihe/artikkeli/2016/10/25/pakasteet-pieneen-pussiin-kielen-alkeita-sarjakuvan-avulla), an amazing tri-lingual comic with audio to help people learn languages.
 * [iland comic](https://www.ilandcomic.co.uk/) by Nikos Tsouknidas and Rob Morgan - [Chapter 0: Clouds](http://www.ilandcomic.co.uk/chapters/0), [Chapter 1: Initiate](http://www.ilandcomic.co.uk/chapters/1).
 * [Material & Methods](https://pellichi.fr/manga/) - A french manga about scientific research, by [Pellichi](https://pellichi.fr).
+* [Las finanzas de Carlota](https://multimedia.caixabank.es/lacaixa/ondemand/criteria/espacioaccionista/comicaula2020/es/sources/) — A series in Spanish and Catalan by the Spanish bank Caixabank "as part of its education program on economics and finance for its shareholders."
 
 ## Customizing
 
